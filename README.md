@@ -9,8 +9,8 @@ My name is Matheus Kroning dos Santos, born in 1994 :leo: . In love with technol
 - 👯 I'm looking to collaborate on things that are within my reach, with open arms to challenges
 - 🤔 I'm looking for help with hacking and information security
 - 📫 How to get to me:
-- Linkedin: https://www.linkedin.com/in/matheus-kr%C3%B6ning/
-- :link: https://portifolio-matheus-kroning.vercel.app/
-- :email: kroningmatheus@gmail.com
-- :iphone: (53) 991203941
+  - Linkedin: https://www.linkedin.com/in/matheus-kr%C3%B6ning/
+  - :link: https://portifolio-matheus-kroning.vercel.app/
+  - :email: kroningmatheus@gmail.com
+  - :iphone: (53) 991203941
 - ⚡ Curiosity: One area that I am very interested in learning about is hacking and information security
